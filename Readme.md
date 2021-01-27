@@ -9,9 +9,9 @@ The results of this project suggest that commonly used DIY sensors differ from r
 
 In this project, I've developed three variants of DIY breath sensing bands based on implementations presented in previous research. Each variant was attached to an adjustable elastic strap that was positioned at the wearer's chest / abdomen during use.
 
-    1. A **flex-sensor** based implementation that monitors breathing by detecting deformations in the curvature of the chest / abdomen as it expands and contracts.
-    1. A **conductive-elastic-cord** based implementation that monitors breathing by detecting changes in the circumference of the chest / abdomen.
-    1. A **conductive-elastic-fabric** with similar properties to the cord.
+  1. A **flex-sensor** based implementation that monitors breathing by detecting deformations in the curvature of the chest / abdomen as it expands and contracts.
+  1. A **conductive-elastic-cord** based implementation that monitors breathing by detecting changes in the circumference of the chest / abdomen.
+  1. A **conductive-elastic-fabric** with similar properties to the cord.
 
 
 # Data Capture Utility
@@ -33,5 +33,5 @@ Data analysis was conducted using Python and R. Python scripts were used to pre-
 
 This project was completed the UNB course CS6065, Human Computer Interaction. Additional information about the project and findings can be found below:
  
-    - [Project Report](https://drive.google.com/file/d/1aPWoukxYgRNtGLF1-vNGCIn-KOlsoxOf/view?usp=sharing)
-    - [Overview Video](https://youtu.be/yZ0PEfM-H_Q)
+  - [Project Report](https://drive.google.com/file/d/1aPWoukxYgRNtGLF1-vNGCIn-KOlsoxOf/view?usp=sharing)
+  - [Overview Video](https://youtu.be/yZ0PEfM-H_Q)
